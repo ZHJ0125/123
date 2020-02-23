@@ -1,7 +1,6 @@
 # 123
 
 + Hello,everyone!<br>
-+ My name is ZhangHoujin,a student from SDUST,China.<br>
-+ Welcome to my Github!
-+ Welcome to my [Blog](https://zhj0125.github.io)!
-+ Welcome to my [CSDN](https://me.csdn.net/ZHJ123CSDN)!
++ My name is 张厚今(Zhang Houjin), a student from Shandong, China.
++ Studying at Shandong University of Science and Technology.
++ Welcome to my [Github](https://github.com/ZHJ0125/), [Blog](https://zhj.forever305.cn) and [CSDN](https://me.csdn.net/ZHJ123CSDN) !
